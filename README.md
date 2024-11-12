@@ -1,2 +1,2 @@
 # WeatherPredict-NodeRed
-This Node-RED project gather weather information from an API to display data such as temperature, humidity, wind speed, wind direction.
+This Node-RED project appears to gather weather information from an API to display data such as temperature, humidity, wind speed, wind direction, cloud cover, and sunrise and sunset times. It also includes a form component to set certain global input parameters and some functions to process the information. There are specific nodes to display data like maximum and minimum temperatures, as well as to assess if "it's time for the beach," likely based on the weather conditions.
